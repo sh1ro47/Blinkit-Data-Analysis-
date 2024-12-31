@@ -1,4 +1,4 @@
-# Blinkit Data Analysis 
+# Blinkit Data Analysis Dashboard
 
 This repository contains a comprehensive analysis of Blinkit's operational and sales data. The analysis aims to uncover trends, optimize processes, and derive actionable insights to support business decision-making. This project is built with Python and various data analysis techniques, leveraging real-world data scenarios.
 
